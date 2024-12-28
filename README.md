@@ -20,5 +20,5 @@
 <li>🎯 Developing the skill set of the future.</li>
 <li>⚡ Passionate about everything I do </li>
 <li> 🧠 A lifelong learner </li>
-<li>🔎 Currently venturing into Machine Learning Engineering and Web Development </li>
+<li>🔎 Currently venturing into Cybersecurity Engineering and Web Development </li>
 </ul>
