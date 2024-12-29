@@ -1,0 +1,475 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   font-family="'Andale Mono', AndaleMono, Consolas, monospace"
+   width="975"
+   height="550"
+   font-size="16px"
+   version="1.1"
+   id="svg78"
+   sodipodi:docname="dark_mode.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:export-filename="light_mode.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs78" />
+  <sodipodi:namedview
+     id="namedview78"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="1.0204095"
+     inkscape:cx="642.87917"
+     inkscape:cy="185.70976"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg78">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="975"
+       height="550"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <style
+     id="style1">
+.keyColor {fill: #ffa657;}
+.valueColor {fill: #a5d6ff;}
+.addColor {fill: #3fb950;}
+.delColor {fill: #f85149;}
+.commentColor {fill: #8b949e;}
+text, tspan {white-space: pre;}
+</style>
+  <rect
+     width="973.42999"
+     height="548.55554"
+     fill="#161b22"
+     rx="15.053041"
+     id="rect1"
+     x="1.3859274"
+     y="0.30743459"
+     style="display:inline;fill:#f2f2f2;stroke-width:1.01914" />
+  <g
+     id="g210-0"
+     style="display:inline"
+     transform="matrix(0.81281698,0,0,0.86062204,-325.93503,42.542094)">
+    <text
+       x="370"
+       y="30"
+       fill="#c9d1d9"
+       id="text78-9"
+       style="white-space:pre;inline-size:668.105;display:inline"
+       transform="matrix(1,0,0,1.094221,51.162924,-36.939723)"
+       xml:space="preserve"><tspan
+         x="370"
+         y="30"
+         id="tspan2"><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
+           id="tspan1">
+</tspan></tspan><tspan
+         x="370"
+         y="50.000001"
+         id="tspan4"><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan3">pgerig.online —————— OS: Windows, Linux
+</tspan></tspan><tspan
+         x="370"
+         y="70.000001"
+         id="tspan6"><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan5">
+</tspan></tspan><tspan
+         x="370"
+         y="90.000001"
+         id="tspan9"><tspan
+           style="fill:#ff6600"
+           id="tspan7">Uptime:</tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan8"> 22 años, 4 meses, 28 días
+</tspan></tspan><tspan
+         x="370"
+         y="110"
+         id="tspan12"><tspan
+           style="fill:#ff6600"
+           id="tspan10">Host:</tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan11"> National Service for Industrial Work Training (SENATI) #ETI
+</tspan></tspan><tspan
+         x="370"
+         y="130"
+         id="tspan15"><tspan
+           style="fill:#ff6600"
+           id="tspan13">Kernel: </tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan14">Cybersecurity Engineering
+</tspan></tspan><tspan
+         x="370"
+         y="150.00001"
+         id="tspan19"><tspan
+           style="fill:#ff6600"
+           id="tspan16">IDE:</tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan17"> VSCode 1.96.2</tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
+           id="tspan18">
+</tspan></tspan><tspan
+         x="370"
+         y="170.00001"
+         id="tspan21"><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
+           id="tspan20">
+</tspan></tspan><tspan
+         x="370"
+         y="190.00001"
+         id="tspan24"><tspan
+           style="fill:#ff6600"
+           id="tspan22">Languages.Programming:</tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan23"> Python, JavaScript
+</tspan></tspan><tspan
+         x="370"
+         y="210.00001"
+         id="tspan27"><tspan
+           style="fill:#ff6600"
+           id="tspan25">Languages.Computer: </tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan26">HTML, CSS, JSON, XML
+</tspan></tspan><tspan
+         x="370"
+         y="230.00001"
+         id="tspan30"><tspan
+           style="fill:#ff6600"
+           id="tspan28">Languages.Real:</tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan29"> English, Spanish
+</tspan></tspan><tspan
+         x="370"
+         y="250.00001"
+         id="tspan32"><tspan
+           style="fill:#ff6600"
+           id="tspan31">
+</tspan></tspan><tspan
+         x="370"
+         y="270.00001"
+         id="tspan35"><tspan
+           style="fill:#ff6600"
+           id="tspan33">Hobbies.Paola's: </tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan34">Wasting time watching TikToks, listening to Kevin </tspan></tspan><tspan
+         x="370"
+         y="290.00001"
+         id="tspan37"><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan36">Kaarl, playing Minecraft.
+</tspan></tspan><tspan
+         x="370"
+         y="310.00001"
+         id="tspan39"><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan38">
+</tspan></tspan><tspan
+         x="370"
+         y="330.00001"
+         id="tspan41"><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan40">Contact:
+</tspan></tspan><tspan
+         x="370"
+         y="350.00001"
+         id="tspan45"><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan42">——————Email: </tspan><tspan
+           style="fill:#ff0000"
+           id="tspan43">pgerig.reyes@gmail.com</tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan44">
+</tspan></tspan><tspan
+         x="370"
+         y="370.00001"
+         id="tspan47"><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan46">
+</tspan></tspan><tspan
+         x="370"
+         y="390.00001"
+         id="tspan50"><tspan
+           style="fill:#008080"
+           id="tspan48">LinkedIn:</tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan49"> Paola Gerig Reyes
+</tspan></tspan><tspan
+         x="370"
+         y="410.00001"
+         id="tspan54"><tspan
+           style="fill:#800080"
+           id="tspan51">Discord:</tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';fill:#000080"
+           id="tspan52"> _gerig</tspan><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
+           id="tspan53">
+</tspan></tspan><tspan
+         x="370"
+         y="430.00001"
+         id="tspan56"><tspan
+           style="font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono'"
+           id="tspan55">
+</tspan></tspan></text>
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.63355px;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.539596"
+     x="429.65149"
+     y="59.984989"
+     id="text304"
+     transform="scale(1.0128703,0.98729324)"><tspan
+       sodipodi:role="line"
+       id="tspan304"
+       x="429.65149"
+       y="59.984989"
+       style="fill:#000000;stroke-width:0.539596">                                              ...:::-*&gt;)&gt;&gt;*=-=:                                         </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="70.776924"
+       id="tspan305"
+       style="fill:#000000;stroke-width:0.539596">                                         --=*&gt;&lt;&gt;))[%#{}]&lt;&gt;)**&gt;()^-                                         </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="81.568863"
+       id="tspan306"
+       style="fill:#000000;stroke-width:0.539596">                                      :~^(][[[])))[[#%1102}{%#}](](&lt;-                                      </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="92.360802"
+       id="tspan307"
+       style="fill:#000000;stroke-width:0.539596">                                      ^###{}{}(}&lt;&lt;(]%%@%{]))}##{}])&lt;&gt;)*:                                  </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="103.15274"
+       id="tspan308"
+       style="fill:#000000;stroke-width:0.539596">                                     ]@%%{#%%#%#((]}}[])^++^)[}#%@#}[)&lt;)*:                                 </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="113.94467"
+       id="tspan309"
+       style="fill:#000000;stroke-width:0.539596">                                    }@@##%%@%%%{##%[](&lt;^+==*^&gt;)({%@%{}[)&gt;^=                                </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="124.73661"
+       id="tspan310"
+       style="fill:#000000;stroke-width:0.539596">                                  *%@@%%@@@@@@%%@@@{()&gt;13==+*^&lt;&lt;]}%%{}[]&gt;&gt;&lt;&lt;~                              </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="135.52855"
+       id="tspan311"
+       style="fill:#000000;stroke-width:0.539596">                                 &lt;@@@%%@@@@@@%%@@@@%}(&lt;^+=~=*^&gt;&lt;([{%%{[[]())():                            </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="146.32048"
+       id="tspan312"
+       style="fill:#000000;stroke-width:0.539596">                                ]@@@%%@@@@@@%@@@@@@@#}(&gt;+==~+*^&lt;)[{%%##}}[]]((]^                          </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="157.11243"
+       id="tspan313"
+       style="fill:#000000;stroke-width:0.539596">                               ]%@@%@@@@@@@@@@@GG@@@%}](^++=+**&gt;&lt;]{####{{}{[]]])&lt;                         </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="167.90436"
+       id="tspan314"
+       style="fill:#000000;stroke-width:0.539596">                              [%@@@@@@@@@@@@@@@@@@@@%{}](&gt;^^&gt;&gt;^&gt;&lt;(}##%#%#{#{}[}]]&lt;                         </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="178.6963"
+       id="tspan315"
+       style="fill:#000000;stroke-width:0.539596">                             [@@@@@@@@@@@@@@@@@@@@@@#{}]]&lt;&lt;&lt;)))))([#%%%@@##{}{{}[]~                        </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="189.48824"
+       id="tspan316"
+       style="fill:#000000;stroke-width:0.539596">                            &lt;@@@@@@@@@@@@QQQ@@@@@@@%#{}(())(]}}}{##%%%@@@##%{{{#[[)                      </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="200.28017"
+       id="tspan317"
+       style="fill:#000000;stroke-width:0.539596">                           *@@@@@@@@@@@@@@@@@@@@9@@%#{}))))]]|||]}{%%%@@@@##%}{}#}[+                      </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="211.07211"
+       id="tspan318"
+       style="fill:#000000;stroke-width:0.539596">                           #@@@@@@@@@@@@@@@@@@@@@@%%{}])&lt;)][[[]]]][}#%%@999%##{{{{}(-                      </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="221.86404"
+       id="tspan319"
+       style="fill:#000000;stroke-width:0.539596">                          &gt;@@@@@@@@@@@@@@@@@@@@@@@@%{(^~&lt;)[}{{#{}[}{#%%@@@@###{#}##}(                     </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="232.65598"
+       id="tspan320"
+       style="fill:#000000;stroke-width:0.539596">                          #@@@@@@@@@@@@@@@@@@@@@@@%{]^--^&lt;([{#@@@%@@@@@%@@@%{#%##}##}&gt;                     </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="243.44792"
+       id="tspan321"
+       style="fill:#000000;stroke-width:0.539596">                         (@@@@@@@@@@@@@@@@@@@9%%%#}[)*|  &gt;&lt;(][[}{{}}{#%@@@@@%@##%{{#{{^                    </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="254.23985"
+       id="tspan322"
+       style="fill:#000000;stroke-width:0.539596">                        &gt;@@@@@@@@@@@%##{{{##{}}}}}[(&gt;*  |&lt;))))))))))(][{%%@@@@@@#%{#}(#(                  </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="265.0318"
+       id="tspan323"
+       style="fill:#000000;stroke-width:0.539596">                       ^#@@@99@@@@%{}[]]((((((((](()&gt;^*==^&lt;(&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;)]}%%@@@@@@##{%[*{[                 </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="275.82373"
+       id="tspan324"
+       style="fill:#000000;stroke-width:0.539596">                      +&lt;@@@@@@@@@@{[]())))&lt;&lt;))(]))]()&lt;&lt;&lt;&lt;&lt;&gt;^&lt;)&lt;&lt;&lt;&gt;&gt;&gt;^*^&lt;([#%@@@@@@#{##}*&lt;{:                </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="286.61566"
+       id="tspan325"
+       style="fill:#000000;stroke-width:0.539596">                      +@@@@@@@@@@%}]]))&lt;&lt;&lt;&lt;&lt;&lt;)(]][%%{]]]#%{]())))&lt;&gt;&gt;^&gt;^&gt;&lt;)]{@@@@@@@%@}](^^{=               </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="297.40759"
+       id="tspan326"
+       style="fill:#000000;stroke-width:0.539596">                       }@@@@@@@@@%}]())&lt;&lt;&lt;&lt;&lt;))(][](](]]((()(&lt;&lt;&lt;)))&lt;&lt;&lt;&lt;&lt;&gt;&gt;&lt;([@@@@@@@@%%{]&lt;*^(*              </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="308.19955"
+       id="tspan327"
+       style="fill:#000000;stroke-width:0.539596">                       {%@@@@@@@@@}](())))))(((((()((()))&lt;&lt;^&gt;&lt;&lt;)(]]))))&lt;&lt;))[@@@@@@@@@@%%#(*=}*             </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="318.99149"
+       id="tspan328"
+       style="fill:#000000;stroke-width:0.539596">                       (#@@@@@@@@@}]]()))(((]((()))()))))&lt;&gt;&gt;&gt;&gt;&lt;&lt;)([}]())))(}@@@@@@@@@@@#}}(+~&gt;^           </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="329.78342"
+       id="tspan329"
+       style="fill:#000000;stroke-width:0.539596">                       &gt;%@@@GG@@@@{]]())(||||||][}{}}[[[[[[[[]()))))][]()))({@@@@@@@@@@@%}{])=:           </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="340.57535"
+       id="tspan330"
+       style="fill:#000000;stroke-width:0.539596">                       ]@@@@@@@@@%{]](())]][]][[]][[]]][}[]][[]][[]))]()))(#@@@@@@@@@@@@[}]&lt;+:             </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="351.36728"
+       id="tspan331"
+       style="fill:#000000;stroke-width:0.539596">                       {@@@@@@@@@%#[]](()(]}[[]]((((((())&lt;&lt;&lt;&lt;&lt;&lt;)))))&lt;&lt;&lt;&lt;&lt;)]%@@@@@@@@@@@@})]*=:             </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="362.15924"
+       id="tspan332"
+       style="fill:#000000;stroke-width:0.539596">                       #@@@@@@@@@@@{[]](((CC((())&lt;&lt;&lt;&lt;&lt;&lt;&gt;&lt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&gt;&lt;))&lt;&lt;&lt;&lt;)({#@@@@@@@@@@%%}^^~::            </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="372.95117"
+       id="tspan333"
+       style="fill:#000000;stroke-width:0.539596">                       @@@@@@@@@@@@@}[[|||]((((()))))()))))&lt;&lt;&lt;&lt;&lt;&lt;&lt;))))))(}9@@@@@GG@@@%]}#&lt;~-:              </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="383.7431"
+       id="tspan334"
+       style="fill:#000000;stroke-width:0.539596">                        @@@@@@@@@@@@@}[[[[]((()))))))&lt;&lt;)))&lt;&lt;&lt;&lt;&lt;&lt;&lt;)))()(]}@@@@@@@@@@@@#((&gt;+~:.             </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="394.53503"
+       id="tspan335"
+       style="fill:#000000;stroke-width:0.539596">                        {@@@@@@@@@@@@@{}[[[](()))))&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;))((((][}@@@@@@@@@@@@%{])^~::           </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="405.32697"
+       id="tspan336"
+       style="fill:#000000;stroke-width:0.539596">                        %@@@@@@@@@@@@@@%{{}}[]()))&lt;&lt;&lt;)))&lt;&lt;&lt;&lt;&lt;&lt;))(]]][}%@@@@@@@@@@@@@%#}(^~:  </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="416.11893"
+       id="tspan337"
+       style="fill:#000000;stroke-width:0.539596">                          }@@@@@@@@@@@@@@%#{}[]](((())))))))))(]][}{%@@@@@@@@@@@@@@@{[}())&lt;&gt;*-:.- </tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="426.91086"
+       id="tspan338"
+       style="fill:#000000;stroke-width:0.539596">                      &gt;{#%@@@@@@@@@@@@@@@@%#********++++++++++**** @@@@@@@@@@@@@@@@%}(((([{[()&lt;</tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="437.70279"
+       id="tspan339"
+       style="fill:#000000;stroke-width:0.539596">                     @@@@@@@@@@@@@@@@@@@@@%#********************** %@@@@@@@@@@@@@@@@@#[()))]]}##{(</tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="448.49472"
+       id="tspan340"
+       style="fill:#000000;stroke-width:0.539596">                   @@@@@@@@@@@@@@@@@@@@@@@@#*************+******** %@@@@@@@@@QQ@@@@@@#}[]]]|||}}}]}</tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="459.28665"
+       id="tspan341"
+       style="fill:#000000;stroke-width:0.539596">                %@@@@%%@@@@@@@@@@@@@9@@@@@@@********++++++++****** #%@@@@@@@@@@@@@@@@@%{}28}[[}{{#{}[</tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="470.07861"
+       id="tspan342"
+       style="fill:#000000;stroke-width:0.539596">              {@{){@@@@@@@@@@@@@@@@@@@@@@@@@*******++++++++****** #@@@@@@@@@@@@@@@@@@%#{]([###{{###}{}}[</tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="480.87054"
+       id="tspan343"
+       style="fill:#000000;stroke-width:0.539596">              {#%%@@@@@@@@@@@@@@@@@@@@@@@@@@********++++++******  #@@@@@@@@@@@@@@@@@@@%{#%{{{{%%#%%%#{}}[</tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="491.66248"
+       id="tspan344"
+       style="fill:#000000;stroke-width:0.539596">            [%%@@@@@@@@QQQQ@@@@@@@@@@@@@@@@@@*********+++******* #%@@@@@@@@@@@@@@@@@@@@%##@@@%%@@#%%%#{}[</tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="502.45441"
+       id="tspan345"
+       style="fill:#000000;stroke-width:0.539596">         *{%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*********+++*******#%@@@@@@@@@@@@@@@@@@@@@@@@@@GG@@@%%#{{{}}</tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="513.24634"
+       id="tspan346"
+       style="fill:#000000;stroke-width:0.539596">        }%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@******************##%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%###</tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="524.03827"
+       id="tspan347"
+       style="fill:#000000;stroke-width:0.539596">      (#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%************###%%@@@@@@@@@@QQ@@@@@@%%@@@@@@@@@@@@@@%%###%</tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="534.8302"
+       id="tspan348"
+       style="fill:#000000;stroke-width:0.539596">     {@@@@@@@@@@@@@@@@@@@@@@@@@@@@@GGGG@@@@@@@@%%%%%*****#%%@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@%#@@@%</tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="545.62213"
+       id="tspan349"
+       style="fill:#000000;stroke-width:0.539596">    {%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%%%%%%%%%@@@@@@@@%%@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@@@@</tspan><tspan
+       sodipodi:role="line"
+       x="429.65149"
+       y="556.41412"
+       id="tspan350"
+       style="fill:#000000;stroke-width:0.539596">   )@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%#%@@@@@@@@@@@@@@@@@@@@@@@@{{#%@@@@@@@@@@@@@@@@@@@@@@@@@@3007@@@@@</tspan></text>
+</svg>
