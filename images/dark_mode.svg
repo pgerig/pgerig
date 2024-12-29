@@ -8,13 +8,17 @@
    id="svg78"
    sodipodi:docname="dark_mode.svg"
    inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   xml:space="preserve"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs78" />
-  <sodipodi:namedview
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs78"><rect
+       x="1031.8129"
+       y="274.03509"
+       width="172.39766"
+       height="30.877193"
+       id="rect2" /></defs><sodipodi:namedview
      id="namedview78"
      pagecolor="#ffffff"
      bordercolor="#000000"
@@ -24,15 +28,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:zoom="0.77727273"
-     inkscape:cx="399.47368"
+     inkscape:cx="401.40351"
      inkscape:cy="337.7193"
      inkscape:window-width="1920"
      inkscape:window-height="1057"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg78" />
-  <style
+     inkscape:current-layer="svg78" /><style
      id="style1">
 .keyColor {fill: #ffa657;}
 .valueColor {fill: #a5d6ff;}
@@ -40,341 +43,346 @@
 .delColor {fill: #f85149;}
 .commentColor {fill: #8b949e;}
 text, tspan {white-space: pre;}
-</style>
-  <rect
-     width="970"
-     height="542.86548"
+</style><rect
+     width="975.14618"
+     height="550.58478"
      fill="#161b22"
-     rx="15"
+     rx="15.07958"
      id="rect1"
-     x="3.8596492"
-     y="5.1461987"
-     style="stroke-width:1.01206" />
-  <text
-     x="-51.95153"
-     y="74.838135"
+     x="-1.2865497"
+     y="2.5730994"
+     style="stroke-width:1.02193" /><text
+     x="-74.622192"
+     y="72.696503"
      fill="#c9d1d9"
      class="ascii"
      id="text25"
-     transform="scale(0.99901944,1.0009815)"
-     style="font-size:8.48444px;stroke-width:0.530278"><tspan
+     transform="scale(1.0403284,0.96123493)"
+     style="font-size:9.00297px;stroke-width:0.562686"><tspan
        sodipodi:role="line"
        id="tspan79"
-       x="-51.95153"
-       y="74.838135"
-       style="stroke-width:0.530278">                                              ...:::-*&gt;)&gt;&gt;*=-=:                                         </tspan><tspan
+       x="-74.622192"
+       y="72.696503"
+       style="stroke-width:0.562686">                                              ...:::-*&gt;)&gt;&gt;*=-=:                                         </tspan><tspan
        sodipodi:role="line"
        id="tspan80"
-       x="-51.95153"
-       y="85.443687"
-       style="stroke-width:0.530278">                                         --=*&gt;&lt;&gt;))[%#{}]&lt;&gt;)**&gt;()^-                                         </tspan><tspan
+       x="-74.622192"
+       y="83.950218"
+       style="stroke-width:0.562686">                                         --=*&gt;&lt;&gt;))[%#{}]&lt;&gt;)**&gt;()^-                                         </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="96.049225"
+       x="-74.622192"
+       y="95.203926"
        id="tspan81"
-       style="stroke-width:0.530278">                                      :~^(][[[])))[[#%1102}{%#}](](&lt;-                                      </tspan><tspan
+       style="stroke-width:0.562686">                                      :~^(][[[])))[[#%1102}{%#}](](&lt;-                                      </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="106.65478"
+       x="-74.622192"
+       y="106.45764"
        id="tspan82"
-       style="stroke-width:0.530278">                                      ^###{}{}(}&lt;&lt;(]%%@%{]))}##{}])&lt;&gt;)*:                                  </tspan><tspan
+       style="stroke-width:0.562686">                                      ^###{}{}(}&lt;&lt;(]%%@%{]))}##{}])&lt;&gt;)*:                                  </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="117.26032"
+       x="-74.622192"
+       y="117.71135"
        id="tspan83"
-       style="stroke-width:0.530278">                                     ]@%%{#%%#%#((]}}[])^++^)[}#%@#}[)&lt;)*:                                 </tspan><tspan
+       style="stroke-width:0.562686">                                     ]@%%{#%%#%#((]}}[])^++^)[}#%@#}[)&lt;)*:                                 </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="127.86588"
+       x="-74.622192"
+       y="128.96506"
        id="tspan84"
-       style="stroke-width:0.530278">                                    }@@##%%@%%%{##%[](&lt;^+==*^&gt;)({%@%{}[)&gt;^=                                </tspan><tspan
+       style="stroke-width:0.562686">                                    }@@##%%@%%%{##%[](&lt;^+==*^&gt;)({%@%{}[)&gt;^=                                </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="138.47144"
+       x="-74.622192"
+       y="140.21878"
        id="tspan85"
-       style="stroke-width:0.530278">                                  *%@@%%@@@@@@%%@@@{()&gt;13==+*^&lt;&lt;]}%%{}[]&gt;&gt;&lt;&lt;~                              </tspan><tspan
+       style="stroke-width:0.562686">                                  *%@@%%@@@@@@%%@@@{()&gt;13==+*^&lt;&lt;]}%%{}[]&gt;&gt;&lt;&lt;~                              </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="149.07698"
+       x="-74.622192"
+       y="151.47249"
        id="tspan86"
-       style="stroke-width:0.530278">                                 &lt;@@@%%@@@@@@%%@@@@%}(&lt;^+=~=*^&gt;&lt;([{%%{[[]())():                            </tspan><tspan
+       style="stroke-width:0.562686">                                 &lt;@@@%%@@@@@@%%@@@@%}(&lt;^+=~=*^&gt;&lt;([{%%{[[]())():                            </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="159.68253"
+       x="-74.622192"
+       y="162.7262"
        id="tspan87"
-       style="stroke-width:0.530278">                                ]@@@%%@@@@@@%@@@@@@@#}(&gt;+==~+*^&lt;)[{%%##}}[]]((]^                          </tspan><tspan
+       style="stroke-width:0.562686">                                ]@@@%%@@@@@@%@@@@@@@#}(&gt;+==~+*^&lt;)[{%%##}}[]]((]^                          </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="170.28809"
+       x="-74.622192"
+       y="173.97992"
        id="tspan88"
-       style="stroke-width:0.530278">                               ]%@@%@@@@@@@@@@@GG@@@%}](^++=+**&gt;&lt;]{####{{}{[]]])&lt;                         </tspan><tspan
+       style="stroke-width:0.562686">                               ]%@@%@@@@@@@@@@@GG@@@%}](^++=+**&gt;&lt;]{####{{}{[]]])&lt;                         </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="180.89363"
+       x="-74.622192"
+       y="185.23363"
        id="tspan89"
-       style="stroke-width:0.530278">                              [%@@@@@@@@@@@@@@@@@@@@%{}](&gt;^^&gt;&gt;^&gt;&lt;(}##%#%#{#{}[}]]&lt;                         </tspan><tspan
+       style="stroke-width:0.562686">                              [%@@@@@@@@@@@@@@@@@@@@%{}](&gt;^^&gt;&gt;^&gt;&lt;(}##%#%#{#{}[}]]&lt;                         </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="191.49918"
+       x="-74.622192"
+       y="196.48734"
        id="tspan90"
-       style="stroke-width:0.530278">                             [@@@@@@@@@@@@@@@@@@@@@@#{}]]&lt;&lt;&lt;)))))([#%%%@@##{}{{}[]~                        </tspan><tspan
+       style="stroke-width:0.562686">                             [@@@@@@@@@@@@@@@@@@@@@@#{}]]&lt;&lt;&lt;)))))([#%%%@@##{}{{}[]~                        </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="202.10474"
+       x="-74.622192"
+       y="207.74104"
        id="tspan91"
-       style="stroke-width:0.530278">                            &lt;@@@@@@@@@@@@QQQ@@@@@@@%#{}(())(]}}}{##%%%@@@##%{{{#[[)                      </tspan><tspan
+       style="stroke-width:0.562686">                            &lt;@@@@@@@@@@@@QQQ@@@@@@@%#{}(())(]}}}{##%%%@@@##%{{{#[[)                      </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="212.71028"
+       x="-74.622192"
+       y="218.99477"
        id="tspan92"
-       style="stroke-width:0.530278">                           *@@@@@@@@@@@@@@@@@@@@9@@%#{}))))]]|||]}{%%%@@@@##%}{}#}[+                      </tspan><tspan
+       style="stroke-width:0.562686">                           *@@@@@@@@@@@@@@@@@@@@9@@%#{}))))]]|||]}{%%%@@@@##%}{}#}[+                      </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="223.31583"
+       x="-74.622192"
+       y="230.24847"
        id="tspan93"
-       style="stroke-width:0.530278">                           #@@@@@@@@@@@@@@@@@@@@@@%%{}])&lt;)][[[]]]][}#%%@999%##{{{{}(-                      </tspan><tspan
+       style="stroke-width:0.562686">                           #@@@@@@@@@@@@@@@@@@@@@@%%{}])&lt;)][[[]]]][}#%%@999%##{{{{}(-                      </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="233.92139"
+       x="-74.622192"
+       y="241.50218"
        id="tspan94"
-       style="stroke-width:0.530278">                          &gt;@@@@@@@@@@@@@@@@@@@@@@@@%{(^~&lt;)[}{{#{}[}{#%%@@@@###{#}##}(                     </tspan><tspan
+       style="stroke-width:0.562686">                          &gt;@@@@@@@@@@@@@@@@@@@@@@@@%{(^~&lt;)[}{{#{}[}{#%%@@@@###{#}##}(                     </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="244.52693"
+       x="-74.622192"
+       y="252.75591"
        id="tspan95"
-       style="stroke-width:0.530278">                          #@@@@@@@@@@@@@@@@@@@@@@@%{]^--^&lt;([{#@@@%@@@@@%@@@%{#%##}##}&gt;                     </tspan><tspan
+       style="stroke-width:0.562686">                          #@@@@@@@@@@@@@@@@@@@@@@@%{]^--^&lt;([{#@@@%@@@@@%@@@%{#%##}##}&gt;                     </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="255.13248"
+       x="-74.622192"
+       y="264.00958"
        id="tspan96"
-       style="stroke-width:0.530278">                         (@@@@@@@@@@@@@@@@@@@9%%%#}[)*|  &gt;&lt;(][[}{{}}{#%@@@@@%@##%{{#{{^                    </tspan><tspan
+       style="stroke-width:0.562686">                         (@@@@@@@@@@@@@@@@@@@9%%%#}[)*|  &gt;&lt;(][[}{{}}{#%@@@@@%@##%{{#{{^                    </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="265.73804"
+       x="-74.622192"
+       y="275.26331"
        id="tspan97"
-       style="stroke-width:0.530278">                        &gt;@@@@@@@@@@@%##{{{##{}}}}}[(&gt;*  |&lt;))))))))))(][{%%@@@@@@#%{#}(#(                  </tspan><tspan
+       style="stroke-width:0.562686">                        &gt;@@@@@@@@@@@%##{{{##{}}}}}[(&gt;*  |&lt;))))))))))(][{%%@@@@@@#%{#}(#(                  </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="276.34357"
+       x="-74.622192"
+       y="286.51703"
        id="tspan98"
-       style="stroke-width:0.530278">                       ^#@@@99@@@@%{}[]]((((((((](()&gt;^*==^&lt;(&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;)]}%%@@@@@@##{%[*{[                 </tspan><tspan
+       style="stroke-width:0.562686">                       ^#@@@99@@@@%{}[]]((((((((](()&gt;^*==^&lt;(&lt;&lt;&lt;&lt;&lt;&gt;&gt;&gt;&gt;&gt;)]}%%@@@@@@##{%[*{[                 </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="286.94913"
+       x="-74.622192"
+       y="297.77072"
        id="tspan99"
-       style="stroke-width:0.530278">                      +&lt;@@@@@@@@@@{[]())))&lt;&lt;))(]))]()&lt;&lt;&lt;&lt;&lt;&gt;^&lt;)&lt;&lt;&lt;&gt;&gt;&gt;^*^&lt;([#%@@@@@@#{##}*&lt;{:                </tspan><tspan
+       style="stroke-width:0.562686">                      +&lt;@@@@@@@@@@{[]())))&lt;&lt;))(]))]()&lt;&lt;&lt;&lt;&lt;&gt;^&lt;)&lt;&lt;&lt;&gt;&gt;&gt;^*^&lt;([#%@@@@@@#{##}*&lt;{:                </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="297.55469"
+       x="-74.622192"
+       y="309.02444"
        id="tspan100"
-       style="stroke-width:0.530278">                      +@@@@@@@@@@%}]]))&lt;&lt;&lt;&lt;&lt;&lt;)(]][%%{]]]#%{]())))&lt;&gt;&gt;^&gt;^&gt;&lt;)]{@@@@@@@%@}](^^{=               </tspan><tspan
+       style="stroke-width:0.562686">                      +@@@@@@@@@@%}]]))&lt;&lt;&lt;&lt;&lt;&lt;)(]][%%{]]]#%{]())))&lt;&gt;&gt;^&gt;^&gt;&lt;)]{@@@@@@@%@}](^^{=               </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="308.16022"
+       x="-74.622192"
+       y="320.27817"
        id="tspan101"
-       style="stroke-width:0.530278">                       }@@@@@@@@@%}]())&lt;&lt;&lt;&lt;&lt;))(][](](]]((()(&lt;&lt;&lt;)))&lt;&lt;&lt;&lt;&lt;&gt;&gt;&lt;([@@@@@@@@%%{]&lt;*^(*              </tspan><tspan
+       style="stroke-width:0.562686">                       }@@@@@@@@@%}]())&lt;&lt;&lt;&lt;&lt;))(][](](]]((()(&lt;&lt;&lt;)))&lt;&lt;&lt;&lt;&lt;&gt;&gt;&lt;([@@@@@@@@%%{]&lt;*^(*              </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="318.76578"
+       x="-74.622192"
+       y="331.53186"
        id="tspan102"
-       style="stroke-width:0.530278">                       {%@@@@@@@@@}](())))))(((((()((()))&lt;&lt;^&gt;&lt;&lt;)(]]))))&lt;&lt;))[@@@@@@@@@@%%#(*=}*             </tspan><tspan
+       style="stroke-width:0.562686">                       {%@@@@@@@@@}](())))))(((((()((()))&lt;&lt;^&gt;&lt;&lt;)(]]))))&lt;&lt;))[@@@@@@@@@@%%#(*=}*             </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="329.37134"
+       x="-74.622192"
+       y="342.78558"
        id="tspan103"
-       style="stroke-width:0.530278">                       (#@@@@@@@@@}]]()))(((]((()))()))))&lt;&gt;&gt;&gt;&gt;&lt;&lt;)([}]())))(}@@@@@@@@@@@#}}(+~&gt;^           </tspan><tspan
+       style="stroke-width:0.562686">                       (#@@@@@@@@@}]]()))(((]((()))()))))&lt;&gt;&gt;&gt;&gt;&lt;&lt;)([}]())))(}@@@@@@@@@@@#}}(+~&gt;^           </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="339.97687"
+       x="-74.622192"
+       y="354.03931"
        id="tspan104"
-       style="stroke-width:0.530278">                       &gt;%@@@GG@@@@{]]())(||||||][}{}}[[[[[[[[]()))))][]()))({@@@@@@@@@@@%}{])=:           </tspan><tspan
+       style="stroke-width:0.562686">                       &gt;%@@@GG@@@@{]]())(||||||][}{}}[[[[[[[[]()))))][]()))({@@@@@@@@@@@%}{])=:           </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="350.58243"
+       x="-74.622192"
+       y="365.293"
        id="tspan105"
-       style="stroke-width:0.530278">                       ]@@@@@@@@@%{]](())]][]][[]][[]]][}[]][[]][[]))]()))(#@@@@@@@@@@@@[}]&lt;+:             </tspan><tspan
+       style="stroke-width:0.562686">                       ]@@@@@@@@@%{]](())]][]][[]][[]]][}[]][[]][[]))]()))(#@@@@@@@@@@@@[}]&lt;+:             </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="361.18799"
+       x="-74.622192"
+       y="376.54672"
        id="tspan106"
-       style="stroke-width:0.530278">                       {@@@@@@@@@%#[]](()(]}[[]]((((((())&lt;&lt;&lt;&lt;&lt;&lt;)))))&lt;&lt;&lt;&lt;&lt;)]%@@@@@@@@@@@@})]*=:             </tspan><tspan
+       style="stroke-width:0.562686">                       {@@@@@@@@@%#[]](()(]}[[]]((((((())&lt;&lt;&lt;&lt;&lt;&lt;)))))&lt;&lt;&lt;&lt;&lt;)]%@@@@@@@@@@@@})]*=:             </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="371.79352"
+       x="-74.622192"
+       y="387.80042"
        id="tspan107"
-       style="stroke-width:0.530278">                       #@@@@@@@@@@@{[]](((CC((())&lt;&lt;&lt;&lt;&lt;&lt;&gt;&lt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&gt;&lt;))&lt;&lt;&lt;&lt;)({#@@@@@@@@@@%%}^^~::            </tspan><tspan
+       style="stroke-width:0.562686">                       #@@@@@@@@@@@{[]](((CC((())&lt;&lt;&lt;&lt;&lt;&lt;&gt;&lt;&gt;&gt;&gt;&gt;&lt;&lt;&lt;&gt;&lt;))&lt;&lt;&lt;&lt;)({#@@@@@@@@@@%%}^^~::            </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="382.39908"
+       x="-74.622192"
+       y="399.05414"
        id="tspan108"
-       style="stroke-width:0.530278">                       @@@@@@@@@@@@@}[[|||]((((()))))()))))&lt;&lt;&lt;&lt;&lt;&lt;&lt;))))))(}9@@@@@GG@@@%]}#&lt;~-:              </tspan><tspan
+       style="stroke-width:0.562686">                       @@@@@@@@@@@@@}[[|||]((((()))))()))))&lt;&lt;&lt;&lt;&lt;&lt;&lt;))))))(}9@@@@@GG@@@%]}#&lt;~-:              </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="393.00464"
+       x="-74.622192"
+       y="410.30786"
        id="tspan109"
-       style="stroke-width:0.530278">                        @@@@@@@@@@@@@}[[[[]((()))))))&lt;&lt;)))&lt;&lt;&lt;&lt;&lt;&lt;&lt;)))()(]}@@@@@@@@@@@@#((&gt;+~:.             </tspan><tspan
+       style="stroke-width:0.562686">                        @@@@@@@@@@@@@}[[[[]((()))))))&lt;&lt;)))&lt;&lt;&lt;&lt;&lt;&lt;&lt;)))()(]}@@@@@@@@@@@@#((&gt;+~:.             </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="403.61017"
+       x="-74.622192"
+       y="421.56155"
        id="tspan110"
-       style="stroke-width:0.530278">                        {@@@@@@@@@@@@@{}[[[](()))))&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;))((((][}@@@@@@@@@@@@%{])^~::           </tspan><tspan
+       style="stroke-width:0.562686">                        {@@@@@@@@@@@@@{}[[[](()))))&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;))((((][}@@@@@@@@@@@@%{])^~::           </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="414.21573"
+       x="-74.622192"
+       y="432.81528"
        id="tspan111"
-       style="stroke-width:0.530278">                        %@@@@@@@@@@@@@@%{{}}[]()))&lt;&lt;&lt;)))&lt;&lt;&lt;&lt;&lt;&lt;))(]]][}%@@@@@@@@@@@@@%#}(^~:  </tspan><tspan
+       style="stroke-width:0.562686">                        %@@@@@@@@@@@@@@%{{}}[]()))&lt;&lt;&lt;)))&lt;&lt;&lt;&lt;&lt;&lt;))(]]][}%@@@@@@@@@@@@@%#}(^~:  </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="424.82129"
+       x="-74.622192"
+       y="444.069"
        id="tspan112"
-       style="stroke-width:0.530278">                          }@@@@@@@@@@@@@@%#{}[]](((())))))))))(]][}{%@@@@@@@@@@@@@@@{[}())&lt;&gt;*-:.- </tspan><tspan
+       style="stroke-width:0.562686">                          }@@@@@@@@@@@@@@%#{}[]](((())))))))))(]][}{%@@@@@@@@@@@@@@@{[}())&lt;&gt;*-:.- </tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="435.42682"
+       x="-74.622192"
+       y="455.32269"
        id="tspan113"
-       style="stroke-width:0.530278">                      &gt;{#%@@@@@@@@@@@@@@@@%#********++++++++++**** @@@@@@@@@@@@@@@@%}(((([{[()&lt;</tspan><tspan
+       style="stroke-width:0.562686">                      &gt;{#%@@@@@@@@@@@@@@@@%#********++++++++++**** @@@@@@@@@@@@@@@@%}(((([{[()&lt;</tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="446.03238"
+       x="-74.622192"
+       y="466.57642"
        id="tspan114"
-       style="stroke-width:0.530278">                     @@@@@@@@@@@@@@@@@@@@@%#********************** %@@@@@@@@@@@@@@@@@#[()))]]}##{(</tspan><tspan
+       style="stroke-width:0.562686">                     @@@@@@@@@@@@@@@@@@@@@%#********************** %@@@@@@@@@@@@@@@@@#[()))]]}##{(</tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="456.63794"
+       x="-74.622192"
+       y="477.83014"
        id="tspan115"
-       style="stroke-width:0.530278">                   @@@@@@@@@@@@@@@@@@@@@@@@#*************+******** %@@@@@@@@@QQ@@@@@@#}[]]]|||}}}]}</tspan><tspan
+       style="stroke-width:0.562686">                   @@@@@@@@@@@@@@@@@@@@@@@@#*************+******** %@@@@@@@@@QQ@@@@@@#}[]]]|||}}}]}</tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="467.24347"
+       x="-74.622192"
+       y="489.08383"
        id="tspan116"
-       style="stroke-width:0.530278">                %@@@@%%@@@@@@@@@@@@@9@@@@@@@********++++++++****** #%@@@@@@@@@@@@@@@@@%{}28}[[}{{#{}[</tspan><tspan
+       style="stroke-width:0.562686">                %@@@@%%@@@@@@@@@@@@@9@@@@@@@********++++++++****** #%@@@@@@@@@@@@@@@@@%{}28}[[}{{#{}[</tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="477.84903"
+       x="-74.622192"
+       y="500.33755"
        id="tspan117"
-       style="stroke-width:0.530278">              {@{){@@@@@@@@@@@@@@@@@@@@@@@@@*******++++++++****** #@@@@@@@@@@@@@@@@@@%#{]([###{{###}{}}[</tspan><tspan
+       style="stroke-width:0.562686">              {@{){@@@@@@@@@@@@@@@@@@@@@@@@@*******++++++++****** #@@@@@@@@@@@@@@@@@@%#{]([###{{###}{}}[</tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="488.45459"
+       x="-74.622192"
+       y="511.59125"
        id="tspan118"
-       style="stroke-width:0.530278">              {#%%@@@@@@@@@@@@@@@@@@@@@@@@@@********++++++******  #@@@@@@@@@@@@@@@@@@@%{#%{{{{%%#%%%#{}}[</tspan><tspan
+       style="stroke-width:0.562686">              {#%%@@@@@@@@@@@@@@@@@@@@@@@@@@********++++++******  #@@@@@@@@@@@@@@@@@@@%{#%{{{{%%#%%%#{}}[</tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="499.06012"
+       x="-74.622192"
+       y="522.84503"
        id="tspan119"
-       style="stroke-width:0.530278">            [%%@@@@@@@@QQQQ@@@@@@@@@@@@@@@@@@*********+++******* #%@@@@@@@@@@@@@@@@@@@@%##@@@%%@@#%%%#{}[</tspan><tspan
+       style="stroke-width:0.562686">            [%%@@@@@@@@QQQQ@@@@@@@@@@@@@@@@@@*********+++******* #%@@@@@@@@@@@@@@@@@@@@%##@@@%%@@#%%%#{}[</tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="509.66568"
+       x="-74.622192"
+       y="534.09869"
        id="tspan120"
-       style="stroke-width:0.530278">         *{%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*********+++*******#%@@@@@@@@@@@@@@@@@@@@@@@@@@GG@@@%%#{{{}}</tspan><tspan
+       style="stroke-width:0.562686">         *{%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@*********+++*******#%@@@@@@@@@@@@@@@@@@@@@@@@@@GG@@@%%#{{{}}</tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="520.27124"
+       x="-74.622192"
+       y="545.35242"
        id="tspan121"
-       style="stroke-width:0.530278">        }%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@******************##%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%###</tspan><tspan
+       style="stroke-width:0.562686">        }%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@******************##%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%###</tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="530.87677"
+       x="-74.622192"
+       y="556.60614"
        id="tspan122"
-       style="stroke-width:0.530278">      (#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%************###%%@@@@@@@@@@QQ@@@@@@%%@@@@@@@@@@@@@@%%###%</tspan><tspan
+       style="stroke-width:0.562686">      (#%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%************###%%@@@@@@@@@@QQ@@@@@@%%@@@@@@@@@@@@@@%%###%</tspan><tspan
        sodipodi:role="line"
-       x="-51.95153"
-       y="541.4823"
+       x="-74.622192"
+       y="567.85986"
        id="tspan123"
-       style="stroke-width:0.530278">     {@@@@@@@@@@@@@@@@@@@@@@@@@@@@@GGGG@@@@@@@@%%%%%*****#%%@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@%#@@@%</tspan></text>
-  <text
+       style="stroke-width:0.562686">     {@@@@@@@@@@@@@@@@@@@@@@@@@@@@@GGGG@@@@@@@@%%%%%*****#%%@@@@@@@@@@@@@@@@@@@@@@@@@%%@@@@@@@@@@@@%#@@@%</tspan></text><text
      x="370"
      y="30"
      fill="#c9d1d9"
      id="text78"
      style="inline-size:540.209"
-     transform="matrix(1,0,0,1.16758,74.619883,25.15935)"
+     transform="matrix(1,0,0,1.16758,101.63743,36.738297)"
      xml:space="preserve"><tspan
        x="370"
        y="30"
-       id="tspan1">andrew@grant——————OS: Windows 10, iOS
+       id="tspan1">paola@gerig —————— OS: Windows, Linux
 </tspan><tspan
        x="370"
        y="50.000001"
-       id="tspan3"><tspan
-   style="fill:#ffa657"
-   id="tspan2">Uptime</tspan>: 22 years, 5 months, 24 days
+       id="tspan4"><tspan
+   style="fill:#ff6600"
+   id="tspan2">Uptime</tspan>: 22 years, 4 months, 28 days
 </tspan><tspan
        x="370"
        y="70.000001"
-       id="tspan5"><tspan
-   style="fill:#ffa657"
-   id="tspan4">Host</tspan>: Rochester Institute of Technology #RIT
-</tspan><tspan
+       id="tspan9"><tspan
+   style="fill:#ff6600"
+   id="tspan6">Host</tspan>: National Service for Industrial Work Training </tspan><tspan
        x="370"
        y="90.000001"
-       id="tspan7"><tspan
-   style="fill:#ffa657"
-   id="tspan6">Kernel</tspan>: Electrical and Computer Engineering Technology </tspan><tspan
+       id="tspan11">(SENATI) #ETI
+</tspan><tspan
        x="370"
        y="110"
-       id="tspan8">#CPET
+       id="tspan16"><tspan
+   style="fill:#ffa657"
+   id="tspan13">Kernel</tspan>: Cybersecurity Engineering 
 </tspan><tspan
        x="370"
        y="130"
-       id="tspan10"><tspan
+       id="tspan22"><tspan
    style="fill:#ffa657"
-   id="tspan9">IDE</tspan>: IntelliJ IDEA 2021.2.1, VSCode 1.64.0
+   id="tspan18">IDE</tspan>: VSCode 1.96.2
 </tspan><tspan
        x="370"
        y="150.00001"
-       id="tspan12"><tspan
-   style="fill:#ffa657"
-   id="tspan11">Languages</tspan>.Programming: Java, Python, C++, JavaScript
+       id="tspan26"><tspan
+   style="fill:#ff6600"
+   id="tspan25">Languages</tspan>.Programming: Python, JavaScript
 </tspan><tspan
        x="370"
        y="170.00001"
-       id="tspan14"><tspan
-   style="fill:#ffa657"
-   id="tspan13">Languages</tspan>.Computer: HTML, CSS, JSON, XML, LaTeX, YAML, </tspan><tspan
+       id="tspan32"><tspan
+   style="fill:#ff6600"
+   id="tspan28">Languages</tspan>.Computer: HTML, CSS, JSON, XML
+</tspan><tspan
        x="370"
        y="190.00001"
-       id="tspan15">Markdown
+       id="tspan36"><tspan
+   style="fill:#ff6600"
+   id="tspan35">Languages</tspan>.Real: English, Spanish
 </tspan><tspan
        x="370"
        y="210.00001"
-       id="tspan17"><tspan
-   style="fill:#ffa657"
-   id="tspan16">Languages</tspan>.Real: English, Spanish
-</tspan><tspan
+       id="tspan50"><tspan
+         style="fill:#ff6600"
+         id="tspan48">Hobbies.</tspan><tspan
+         style="fill:#ffffff"
+         id="tspan49">Paola's: Wasting time watching Tiktoks, </tspan></tspan><tspan
        x="370"
        y="230.00001"
-       id="tspan19"><tspan
-   style="fill:#ffa657"
-   id="tspan18">Hobbies</tspan>.Software: Minecraft Modding, iOS Jailbreaking
+       id="tspan52"><tspan
+   style="fill:#ffffff"
+   id="tspan51">listening to Kevin Kaarl, playing Minecraft</tspan>
 </tspan><tspan
        x="370"
        y="250.00001"
-       id="tspan21"><tspan
-   style="fill:#ffa657"
-   id="tspan20">Hobbies</tspan>.Hardware: Overclocking, Undervolting
+       id="tspan53">
 </tspan><tspan
        x="370"
        y="270.00001"
-       id="tspan23"><tspan
-   style="fill:#ffa657"
-   id="tspan22">Contact</tspan>:
+       id="tspan55"><tspan
+   style="fill:#ff6600"
+   id="tspan54">Contact:</tspan>
 </tspan><tspan
        x="370"
        y="290.00001"
-       id="tspan24">——————Email: agrantnmac@gmail.com
+       id="tspan57">——————Email: <tspan
+   style="fill:#ff0000"
+   id="tspan56">pgerig.reyes@gmail.com</tspan>
 </tspan><tspan
        x="370"
        y="310.00001"
-       id="tspan27"><tspan
-   style="fill:#ffa657"
-   id="tspan25">LinkedIn</tspan>: Andrew6rant
+       id="tspan60"><tspan
+   style="fill:#00ffff"
+   id="tspan58">LinkedIn: </tspan><tspan
+   style="fill:#ffffff"
+   id="tspan59">Paola Gerig Reyes</tspan>
 </tspan><tspan
        x="370"
        y="330.00001"
-       id="tspan29"><tspan
-   style="fill:#ffa657"
-   id="tspan28">Discord</tspan>: andrew6ran
-</tspan></text>
-</svg>
+       id="tspan62"><tspan
+   style="fill:#ff00ff"
+   id="tspan61">Discord:</tspan> _gerig
+</tspan></text><text
+     xml:space="preserve"
+     id="text1"
+     style="fill:#00ffff;text-orientation:auto;-inkscape-font-specification:'Andale Mono';font-family:'Andale Mono';text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2)" /></svg>
