@@ -1,4 +1,3 @@
-
 <h2 align="center" class="heading-element" dir="auto">
     <b>Hi, Welcome to my profile 👋</b>
 </h2>
@@ -16,4 +15,6 @@
 <li> 🧠 A lifelong learner </li>
 <li>🔎 Currently venturing into Cybersecurity Engineering and Web Development </li>
 </ul>
+
+
 ![Paola's Profile](assets/dark_mode.svg)
