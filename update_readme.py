@@ -24,6 +24,6 @@ def svg_overwrite(filename, age_data):
 
 if __name__ == '__main__':
     # Calculate uptime
-    age_data = daily_readme(datetime.datetime(2002, 7, 30))  # Replace with your actual birthdate
+    age_data = daily_readme(datetime.datetime(2002, 7, 30)) 
     # Update SVG
     svg_overwrite('assets/dark_mode.svg', age_data)
