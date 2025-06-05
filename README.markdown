@@ -4,7 +4,7 @@
 
 
 <p align="center" dir="auto">
-    <b>I'm Paola Gerig, a fourth-cycle Cybersecurity Engineering student at Senati, Perú.</b>
+    <b>I'm Paola Gerig, a five-cycle Cybersecurity Engineering student at Senati, Perú.</b>
 </p>
 
 </p>
