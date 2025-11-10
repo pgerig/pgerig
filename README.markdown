@@ -1,5 +1,5 @@
 <h2 align="center" class="heading-element" dir="auto">
-    <b>Hi, Welcome to my profile 👋</b>
+    <b>Hi, Welcome to my profile</b>
 </h2>
 
 
