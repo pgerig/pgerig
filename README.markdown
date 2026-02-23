@@ -10,8 +10,6 @@
 </p>
 <hr>
 <ul dir="auto">
-<li> A lifelong learner </li>
-<li> Currently venturing into Cybersecurity </li>
 </ul>
 
 
