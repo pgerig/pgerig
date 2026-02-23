@@ -4,13 +4,12 @@
 
 
 <p align="center" dir="auto">
-    <b>I'm Paola Gerig, a Cybersecurity Engineering student.</b>
+    <b>I'm Paola G., a Cybersecurity Engineering student.</b>
 </p>
 
 </p>
 <hr>
 <ul dir="auto">
-<li> Passionate about everything I do </li>
 <li> A lifelong learner </li>
 <li> Currently venturing into Cybersecurity </li>
 </ul>
