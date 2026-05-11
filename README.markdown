@@ -4,7 +4,7 @@
 
 
 <p align="center" dir="auto">
-    <b>I'm Paola G., a Cybersecurity Engineering student.</b>
+    <b>I'm Paola, a Cybersecurity Engineering student.</b>
 </p>
 
 </p>
